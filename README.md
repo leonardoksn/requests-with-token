@@ -1,5 +1,5 @@
-## Obtendo dados fakes da api Dmmyjson.com
- - ao dar git clone no terminal instale as dependências necessárias com yarn ou npm install no terminal
+## Obtendo dados fakes da api Dummyjson.com
+ - ao dar git clone, no terminal instale as dependências necessárias com yarn ou npm install
  - em seguida basta usar yarn dev ou npm run dev para.
  
  - Basicamente o programa obtem os dados de uma API falsa com autenticação,
