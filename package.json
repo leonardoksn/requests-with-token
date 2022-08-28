@@ -1,0 +1,16 @@
+{
+  "name": "api_dados",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "autenticação com fetch",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "https://github.com/leonardoksn",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
